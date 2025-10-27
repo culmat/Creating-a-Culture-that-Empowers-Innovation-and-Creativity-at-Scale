@@ -1,4 +1,4 @@
----
+--- 
 title: "Creating a Culture that Empowers Innovation and Creativity at Scale"
 description: "A presentation on building a culture for innovation and creativity at scale."
 author: "Matthias Cullmann"
@@ -9,6 +9,12 @@ paginate: true
 backgroundColor: #000
 color: #fff
 ---
+
+<style>
+h1, h2, h3, h4, h5, h6 {
+  text-shadow: 1px 2px 8px rgba(0,0,0,0.7), 0 0 5px #000;
+}
+</style>
 
 # **Creating a Culture that Empowers Innovation and Creativity at Scale**
 
@@ -158,7 +164,7 @@ Failure
 
 ---
 
-# Empowerment
+# Empower
 
 ![bg brightness:0.6 contrast:200% grayscale](img/yao-oo-p_Bpv-iu7QI-unsplash.jpg)
 
@@ -187,6 +193,9 @@ Photo by <a href="https://unsplash.com/@yaooo_?utm_source=unsplash&utm_medium=re
 
 # Creativity
 
+![bg ](img/gz.png)
+
+
 <!--
 
 "Create a work environment that motivates peak performance"
@@ -200,35 +209,143 @@ a walk in the "Baloise" Park
 
 ---
 
-# Creativity Quizz
+# In the tub
 
-Breakfast -> Yesterday
-Heureka -> Density
-Party -> Lauging gas
-Walking the dog -> Velcro
+![bg](img/olena-bohovyk-VUctfL2pN0Y-unsplash.jpg)
 
-Deck 2 Slide 30
+<!-- 
+
+Archimedes of Syracuse
+Eureka -> Density
+
+Photo by <a href="https://unsplash.com/@olenkasergienko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Olena Bohovyk</a> on <a href="https://unsplash.com/photos/brown-glass-bottle-on-white-table-VUctfL2pN0Y?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
+    
+-->
 
 ---
 
-# Slack time
+# Density
+
+![bg invert contrast](img/heureka.svg)
+
+<!-- 
+
+Archimedes of Syracuse
+Eureka -> Density
+
+      
+      
+    
+-->
+
+---
+
+# Pogo dancing
+
+![bg brightness:0.7 contrast:1.4](img/evgeniy-smersh-jVtSmbDZYk4-unsplash.jpg)
+
+<!-- 
+
+1772 by English natural philosopher and chemist Joseph Priestley 
+
+1844  Horace  Wells
+
+Photo by <a href="https://unsplash.com/@igrindphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Evgeniy Smersh</a> on <a href="https://unsplash.com/photos/concert-crowd-moshing-enthusiastically-in-the-night-jVtSmbDZYk4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
+
+-->
+
+
+---
+
+# Laughing gas
+
+![bg brightness:1.2 contrast:1.5 fit](img/A_man_breathing_in_nitrous_oxide_(cropped).jpg)
+
+<!-- 
+
+1772 by English natural philosopher and chemist Joseph Priestley 
+
+1844  Horace  Wells
+
+    
+-->
+
+
+---
+# Walking the dog
+
+
+![bg](img/mestral.jpg)
+
+<!-- 
+
+1941 George de Mestral
+
+
+    
+-->
+---
+# Velcro
+
+
+![bg](img/Gemini_Generated_Image_xe078lxe078lxe07.png)
+
+<!-- 
+
+1941 George de Mestral
+
+Extreme close-up of Velcro, photorealistic, with dramatic, directional lighting creating deep shadows and highlights. The intricate hooks and loops are sharply in focus against a completely black, infinite background, emphasizing texture and depth.
+
+    
+-->
+
+
+---
+
+# Slack
+
+
+![bg](img/shun-idota-cekJ1XXx1Rk-unsplash.jpg)
+
+
+
+<!-- 
 
 Gold card
 Code camp
 Open Friday
 Hackathon
 
-100% load? Highway paring
+Photo by <a href="https://unsplash.com/@itzshunnn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">shun idota</a> on <a href="https://unsplash.com/photos/cars-parked-on-the-side-of-the-road-during-daytime-cekJ1XXx1Rk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
+
+-->
 
 ---
 
-# Ideation and Innovation
 
-Kickbox process , Innofunnel, Voici of Customer
-Kickbox party
+![bg](img/esteban-palacios-blanco-_CDeT66OOhc-unsplash.jpg)
+
+# Process
+
+<!--
+Photo by <a href="https://unsplash.com/@estebanjvr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Esteban Palacios Blanco</a> on <a href="https://unsplash.com/photos/a-row-of-blue-and-white-dresses-_CDeT66OOhc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
+
+-->
+
+---
+
+
+![bg](img/funnel.webp)
+
 
 <!--
 
+Kickbox process , Innofunnel, Voice of Customer
+Kickbox party
 Pro cedere
 Budget & sponsorship
 Involve people -> scale
@@ -237,7 +354,7 @@ Involve people -> scale
 
 ---
 
-# Failure
+# Fail
 
 Baloise Ad
 
@@ -249,13 +366,26 @@ Baloise Ad
 
 ---
 
-# Recognition
+# Celebrate
 
-Awards
+![bg](img/celebrate.png)
 
 <!--
 
 
+"A hyper-realistic, high-resolution press photograph capturing the peak moment of a grand celebration. Focus on a female victorious cyclist in sharp detail, as if taken by a professional sports photographer. She should be wearing a cycling jersey with a prominent Baloise logo, clearly visible on the chest of her jersey. She is holding a champagne bottle mid-spray, celebrating her win. The background features a blurred but recognizable crowd, expressing raw, ecstatic emotion – mouths open in cheers, hands raised in jubilation. Confetti is frozen in motion, and stadium lights glint off metallic surfaces. Emphasize authentic expressions, dynamic action, and true-to-life lighting, avoiding any artificial or stylized elements. The image should feel immediate, unposed, and perfectly timed, like a snapshot from a live event.
+
+-->
+
+---
+
+
+![bg fit](img/award.png)
+
+<!--
+
+
+"A hyper-realistic, high-resolution press photograph capturing the peak moment of a grand celebration. Focus on a female victorious cyclist in sharp detail, as if taken by a professional sports photographer. She should be wearing a cycling jersey with a prominent Baloise logo, clearly visible on the chest of her jersey. She is holding a champagne bottle mid-spray, celebrating her win. The background features a blurred but recognizable crowd, expressing raw, ecstatic emotion – mouths open in cheers, hands raised in jubilation. Confetti is frozen in motion, and stadium lights glint off metallic surfaces. Emphasize authentic expressions, dynamic action, and true-to-life lighting, avoiding any artificial or stylized elements. The image should feel immediate, unposed, and perfectly timed, like a snapshot from a live event.
 
 -->
 
