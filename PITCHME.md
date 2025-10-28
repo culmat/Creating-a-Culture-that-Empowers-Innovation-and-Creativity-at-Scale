@@ -30,14 +30,6 @@ Guild Owner BizDevOps @ Baloise
 
 ---
 
-# **Creating a Culture that Empowers Creativity and Innovation at Scale**
-
-Matthias Cullmann
-
-Guild Owner BizDevOps @ Baloise
-
----
-
 # Culture
 
 ![bg](img/marylou-fortier-DYMC1mP3HS4-unsplash.jpg)
@@ -89,6 +81,60 @@ Photo by <a href="https://unsplash.com/@aarsoph?utm_source=unsplash&utm_medium=r
 
 ---
 
+# Empower
+
+![bg brightness:0.6 contrast:200% grayscale](img/yao-oo-p_Bpv-iu7QI-unsplash.jpg)
+
+<!--
+
+Information, Openness
+
+wiki
+
+open friday
+
+Insurance is data and knowledge.
+
+Data classification and Openness
+
+Take the fear away.
+
+FOSS
+
+Photo by <a href="https://unsplash.com/@yaooo_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">yao oo</a> on <a href="https://unsplash.com/photos/a-bunch-of-mushrooms-that-are-on-a-shelf-p_Bpv-iu7QI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+
+-->
+
+---
+
+# Scale
+
+![bg ](img/baloise_eco_system.png)
+
+<!--
+
+Internal vs External Innovation
+
+
+-->
+
+---
+
+![bg ](img/Screenshot%20From%202025-10-26%2012-21-39.png)
+
+<!--
+
+Failure
+
+==> So how do we do that?
+
+-->
+
+
+
+---
+
 # Creativity
 
 ![bg ](img/bhushan-sadani-M-xaOaCzy_M-unsplash.jpg)
@@ -137,63 +183,29 @@ Photo by <a href="https://unsplash.com/@shofukan?utm_source=unsplash&utm_medium=
 
 -->
 
----
-
-# Scale
-
-![bg ](img/baloise_eco_system.png)
-
-<!--
-
-Internal vs External Innovation
-
-
--->
-
----
-
-![bg ](img/Screenshot%20From%202025-10-26%2012-21-39.png)
-
-<!--
-
-Failure
-
-==> So how do we do that?
-
--->
-
----
-
-# Empower
-
-![bg brightness:0.6 contrast:200% grayscale](img/yao-oo-p_Bpv-iu7QI-unsplash.jpg)
-
-<!--
-
-Information, Openness
-
-wiki
-
-open friday
-
-Insurance is data and knowledge.
-
-Data classification and Openness
-
-Take the fear away.
-
-FOSS
-
-Photo by <a href="https://unsplash.com/@yaooo_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">yao oo</a> on <a href="https://unsplash.com/photos/a-bunch-of-mushrooms-that-are-on-a-shelf-p_Bpv-iu7QI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-
--->
 
 ---
 
 # Creativity
 
 ![bg ](img/gz.png)
+
+
+<!--
+
+"Create a work environment that motivates peak performance"
+
+ball pool
+table football
+creative furniture
+a walk in the "Baloise" Park
+
+-->
+
+---
+# Group Strategy and Innovation
+
+![bg ](img/window.jpg)
 
 
 <!--
@@ -328,11 +340,19 @@ Photo by <a href="https://unsplash.com/@itzshunnn?utm_source=unsplash&utm_medium
 
 ![bg](img/esteban-palacios-blanco-_CDeT66OOhc-unsplash.jpg)
 
+# Ideation and Innovation
 # Process
 
 <!--
 Photo by <a href="https://unsplash.com/@estebanjvr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Esteban Palacios Blanco</a> on <a href="https://unsplash.com/photos/a-row-of-blue-and-white-dresses-_CDeT66OOhc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-      
+
+Pro cedere
+Progress
+
+Budget
+Voice of customer
+Innovation day
+
 
 -->
 
@@ -354,9 +374,11 @@ Involve people -> scale
 
 ---
 
-# Fail
+# 
 
-Baloise Ad
+
+![bg fit](img/baloise-02.jpg)
+
 
 <!--
 
@@ -366,12 +388,12 @@ Baloise Ad
 
 ---
 
-# Celebrate
 
 ![bg](img/celebrate.png)
 
 <!--
 
+# Celebrate
 
 "A hyper-realistic, high-resolution press photograph capturing the peak moment of a grand celebration. Focus on a female victorious cyclist in sharp detail, as if taken by a professional sports photographer. She should be wearing a cycling jersey with a prominent Baloise logo, clearly visible on the chest of her jersey. She is holding a champagne bottle mid-spray, celebrating her win. The background features a blurred but recognizable crowd, expressing raw, ecstatic emotion – mouths open in cheers, hands raised in jubilation. Confetti is frozen in motion, and stadium lights glint off metallic surfaces. Emphasize authentic expressions, dynamic action, and true-to-life lighting, avoiding any artificial or stylized elements. The image should feel immediate, unposed, and perfectly timed, like a snapshot from a live event.
 
@@ -391,13 +413,15 @@ Baloise Ad
 
 ---
 
-# Humans innovate
 
-Hire the best
-Make them better
+![bg](img/thoughtful.webp)
+
 
 <!--
 
+# Humans innovate
+Hire the best
+Make them better
 Can AI innovate?
 AlphaFold
 
@@ -405,13 +429,16 @@ AlphaFold
 
 ---
 
-# It's trivial
+![bg](img/baby_steps.jpg)
+
+<!--
+
+
+
+Did I just listen to a keynote telling me to open the windows if I want innovation?
 
 Do any all
 Baby steps
 
-<!--
-
-Did I just listen to a keynote telling me to open the windows if I want innovation?
 
 -->
