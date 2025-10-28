@@ -1,0 +1,57 @@
+name: marp-to-pages
+concurrency: marp-to-pages
+
+on:
+  push:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Ensure build dir exists
+        run: mkdir -p build
+
+      - name: Copy images directory (if exists)
+        run: if [[ -d img ]]; then cp -R img build/img; fi
+
+      - name: Marp Build HTML
+        uses: docker://marpteam/marp-cli:v3.0.3
+        with:
+          args: PITCHME.md -o build/index.html
+        env:
+          MARP_USER: root:root
+      
+      - name: Marp Build Notes
+        uses: docker://marpteam/marp-cli:v3.0.3
+        with:
+          args: PITCHME.md -o build/notes.txt
+        env:
+          MARP_USER: root:root
+
+      - name: Marp Build PDF
+        uses: docker://marpteam/marp-cli:v3.0.3
+        with:
+          args: PITCHME.md --allow-local-files -o build/PITCHME.pdf
+        env:
+          MARP_USER: root:root
+
+      - name: Marp Build PPTX
+        uses: docker://marpteam/marp-cli:v3.0.3
+        with:
+          args: PITCHME.md --allow-local-files -o build/PITCHME.pptx
+        env:
+          MARP_USER: root:root
+
+      - name: Deploy
+        if: ${{ github.event_name == 'push' }}
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: ./build/
+
