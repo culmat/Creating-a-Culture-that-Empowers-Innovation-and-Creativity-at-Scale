@@ -14,7 +14,14 @@ color: #fff
 h1, h2, h3, h4, h5, h6 {
   text-shadow: 1px 2px 8px rgba(0,0,0,0.7), 0 0 5px #000;
 }
+:root {
+  --heading-strong-color: #56a7f5;
+}
 </style>
+
+[//]: # (Use https://github.com/marp-team/marp-cli)
+[//]: # (to convert to PDF / PPTX etc, ie)
+[//]: # (marp --pptx --allow-local-files   .\PITCHME.md)
 
 # **Creating a Culture that Empowers Innovation and Creativity at Scale**
 
@@ -27,6 +34,8 @@ Guild Owner BizDevOps @ Baloise
 
   Insurance is in fact IT with an insurance twist.
 -->
+
+
 
 ---
 
@@ -183,42 +192,6 @@ Photo by <a href="https://unsplash.com/@shofukan?utm_source=unsplash&utm_medium=
 
 -->
 
-
----
-
-# Creativity
-
-![bg ](img/gz.png)
-
-
-<!--
-
-"Create a work environment that motivates peak performance"
-
-ball pool
-table football
-creative furniture
-a walk in the "Baloise" Park
-
--->
-
----
-# Group Strategy and Innovation
-
-![bg ](img/window.jpg)
-
-
-<!--
-
-"Create a work environment that motivates peak performance"
-
-ball pool
-table football
-creative furniture
-a walk in the "Baloise" Park
-
--->
-
 ---
 
 # In the tub
@@ -312,6 +285,43 @@ Extreme close-up of Velcro, photorealistic, with dramatic, directional lighting 
 
     
 -->
+
+
+---
+
+# Creativity
+
+![bg ](img/gz.png)
+
+
+<!--
+
+"Create a work environment that motivates peak performance"
+
+ball pool
+table football
+creative furniture
+a walk in the "Baloise" Park
+
+-->
+
+---
+# Group Strategy and Innovation
+
+![bg ](img/window.jpg)
+
+
+<!--
+
+"Create a work environment that motivates peak performance"
+
+ball pool
+table football
+creative furniture
+a walk in the "Baloise" Park
+
+-->
+
 
 
 ---
