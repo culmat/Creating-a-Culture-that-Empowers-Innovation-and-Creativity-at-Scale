@@ -74,7 +74,6 @@ Sorry, image for NY
 
 ---
 
-# Empower
 
 ![bg fit](img/kristijan-arsov-2vkUywv7LNQ-unsplash.jpg)
 
@@ -90,7 +89,6 @@ Photo by <a href="https://unsplash.com/@aarsoph?utm_source=unsplash&utm_medium=r
 
 ---
 
-# Empower
 
 ![bg brightness:0.6 contrast:200% grayscale](img/yao-oo-p_Bpv-iu7QI-unsplash.jpg)
 
@@ -210,8 +208,6 @@ Photo by <a href="https://unsplash.com/@olenkasergienko?utm_source=unsplash&utm_
 
 ---
 
-# Density
-
 ![bg invert contrast](img/heureka.svg)
 
 <!-- 
@@ -244,11 +240,12 @@ Photo by <a href="https://unsplash.com/@igrindphoto?utm_source=unsplash&utm_medi
 
 ---
 
-# Laughing gas
 
 ![bg brightness:1.2 contrast:1.5 fit](img/A_man_breathing_in_nitrous_oxide_(cropped).jpg)
 
 <!-- 
+
+Laughing gas
 
 1772 by English natural philosopher and chemist Joseph Priestley 
 
@@ -272,12 +269,12 @@ Photo by <a href="https://unsplash.com/@igrindphoto?utm_source=unsplash&utm_medi
     
 -->
 ---
-# Velcro
 
 
 ![bg](img/Gemini_Generated_Image_xe078lxe078lxe07.png)
 
 <!-- 
+Velcro
 
 1941 George de Mestral
 
@@ -392,14 +389,14 @@ Involve people -> scale
 
 <!--
 
-
+Fail
 
 -->
 
 ---
 
 
-![bg](img/celebrate.png)
+![bg fit](img/celebrate.png)
 
 <!--
 
