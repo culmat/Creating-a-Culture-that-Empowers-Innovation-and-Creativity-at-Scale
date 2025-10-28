@@ -21,28 +21,28 @@ jobs:
         run: if [[ -d img ]]; then cp -R img build/img; fi
 
       - name: Marp Build HTML
-        uses: docker://marpteam/marp-cli:v3.0.3
+        uses: docker://marpteam/marp-cli:main
         with:
           args: PITCHME.md -o build/index.html
         env:
           MARP_USER: root:root
       
       - name: Marp Build Notes
-        uses: docker://marpteam/marp-cli:v3.0.3
+        uses: docker://marpteam/marp-cli:main
         with:
           args: PITCHME.md -o build/notes.txt
         env:
           MARP_USER: root:root
 
       - name: Marp Build PDF
-        uses: docker://marpteam/marp-cli:v3.0.3
+        uses: docker://marpteam/marp-cli:main
         with:
           args: PITCHME.md --allow-local-files -o build/PITCHME.pdf
         env:
           MARP_USER: root:root
 
       - name: Marp Build PPTX
-        uses: docker://marpteam/marp-cli:v3.0.3
+        uses: docker://marpteam/marp-cli:main
         with:
           args: PITCHME.md --allow-local-files -o build/PITCHME.pptx
         env:
