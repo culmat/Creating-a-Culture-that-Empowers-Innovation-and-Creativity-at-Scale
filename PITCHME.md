@@ -134,7 +134,6 @@ Internal vs External Innovation
 
 Failure
 
-==> So how do we do that?
 
 -->
 
@@ -384,7 +383,7 @@ Involve people -> scale
 # 
 
 
-![bg fit](img/baloise-02.jpg)
+![bg fit](https://leadingswissagencies.ch/wp-content/uploads/2022/11/baloise-02.jpg)
 
 
 <!--
